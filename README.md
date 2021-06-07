@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ahmedeminboluk/ahmedeminboluk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🌱 I’m currently learning .NET CORE Development
 
@@ -15,4 +11,4 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: ahmedeminboluk@gmail.com
 
--->
+
